@@ -1,2 +1,9 @@
-# Exercise-Building-
-These are the some cool basic practice staff, which can help you to explore the basic parts of the Data_Science field. 
+# Exercise-Building-Practice
+<br>
+Hello there!
+<br>
+These are some nice basic practice staff that can assist you in getting started and exploring the fundamentals of the data_science.
+<br>
+
+
+
